@@ -567,6 +567,7 @@ h1 {
   background: url(assets/img/background.jpg) center no-repeat;
   background-size: cover;
   padding: 6em 1em;
+  border-radius: 16px;
 }
 
 .trial p {
@@ -599,6 +600,7 @@ footer input {
   border: none;
   padding: 0.7em;
   border-radius: 5px;
+  color: #fff;
 }
 
 footer hr {
